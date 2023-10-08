@@ -1,6 +1,6 @@
 # BrowserSourcesForOBS 
 
-<h1 align="center">This repository collection is designed to create dynamic browser sources that can be used in OBS (Open Broadcaster Software).</h1>
+<h2 align="center">This repository collection is designed to create dynamic browser sources that can be used in OBS (Open Broadcaster Software).</h2>
 
 ## Collaborators
 
@@ -12,6 +12,12 @@ ___
 ### Purpose
 
 Each repository generates dynamic browser sources that can be used in OBS (Open Broadcaster Software). These sources allow for the modification of their values directly from the browser or by sending events using applications like StreamDeck or similar tools.
+
+### About the Code
+
+I have chosen to publish this code to make it accessible for free, openly, and as open-source. These codes I have developed have helped me continue learning, and since it doesn't entail any financial cost for me, there will also be no paid features created. It will be open to anyone who wants to use it and collaborate in improving the code.
+
+The codes have been created with my current knowledge and may contain errors or areas that need improvement. I have worked on this code in my free time.
 
 ### Inspiración Behind this Project
 

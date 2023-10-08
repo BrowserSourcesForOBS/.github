@@ -1,4 +1,4 @@
-# BrowserSourcesForOBS 
+# BrowserSourcesForOBS
 
 <h2 align="center">This repository collection is designed to create dynamic browser sources that can be used in OBS (Open Broadcaster Software).</h2>
 
